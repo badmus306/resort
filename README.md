@@ -27,9 +27,8 @@ N:B - Local Disk is the location where the xampp is installed
 
 ## 📜 Some Vids
 
-![image](https://user-images.githubusercontent.com/20705264/114946649-d9dff100-9e4b-11eb-8ade-61485002999a.png)
+![alt text](https://github.com/badmus306/resort/raw/master/dist/img/screen.gif "Logo Title Text 1")
 
-![image](https://user-images.githubusercontent.com/20705264/114946696-f7ad5600-9e4b-11eb-966e-070e48d26239.png)
 
 
 
